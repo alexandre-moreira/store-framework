@@ -64,7 +64,10 @@
     "props": {
       "displayMode": "logo",
       "height": 30
-    }
+    },
+    "children":[
+      "sku-selector"
+    ]
   },
   "sku-selector": {
     "props": {
