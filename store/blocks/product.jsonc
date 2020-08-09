@@ -19,7 +19,7 @@
     "children":[
       "product-images",
       "product-brand"
-    ]
+    ],
     "props": {
       "displayThumbnailsArrows":true
     }
