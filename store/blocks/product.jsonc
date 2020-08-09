@@ -68,8 +68,7 @@
   },
   "sku-selector": {
     "props": {
-      "thumbnailImage": "imageLabel",
-      "height":30
+      "thumbnailImage": "imageLabel"
     }
   }
 }
