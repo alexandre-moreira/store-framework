@@ -23,10 +23,7 @@
   "flex-layout.col#left": {
     "children": [
       "stack-layout#brand",
-      "stack-layout",
-      "product-images",
-      "product-brand"
-    ]
+      "stack-layout"    ]
   },
   "flex-layout.col#right": {
     "props":{
@@ -62,6 +59,12 @@
       "product-images",
       "product-brand"
     ]
+  },
+  "product-brand": {
+    "props": {
+      "displayMode": "logo",
+      "height": 30
+    }
   },
   "sku-selector": {
     "props": {
