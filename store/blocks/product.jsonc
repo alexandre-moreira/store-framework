@@ -24,9 +24,15 @@
       "preventVerticalStretch":true
     },
     "children": [
-      "product-name",
       "product-price",
+      "product-name",
       "buy-button"
     ]
+  },
+  "product-price": {
+      "props": {
+        "showSavings": true,
+        "showListPrice": true
+      }
   }
 }
