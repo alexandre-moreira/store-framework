@@ -55,6 +55,9 @@
     ]
   },
   "stack-layout#brand": {
+    "props":{
+      "displayMode": "logo"
+    },
     "children": [
       "product-images",
       "product-brand"
