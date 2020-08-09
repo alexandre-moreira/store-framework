@@ -1,14 +1,20 @@
 {
   "store.home": {
     "blocks": [
-        "flex-layout.row"
+        "flex-layout.row",
+        "flex-layout.col"
     ]
   },
     "flex-layout.row": {
       "children": [
-        "info-card#rethink",
-        "flex-layout.col"
+        "info-card#rethink"
         ]
+    },
+    "flex-layout.col": {
+      "children": [
+        "image#electronics",
+        "image#major-appliance"
+      ]
     },
     "info-card#rethink": {
       "props": {
