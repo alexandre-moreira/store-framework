@@ -62,5 +62,11 @@
       "product-images",
       "product-brand"
     ]
+  },
+  "sku-selector": {
+    "props": {
+      "displayMode": "logo",
+      "height":30
+    }
   }
 }
