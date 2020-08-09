@@ -16,6 +16,10 @@
     ]
   },
   "stack-layout": {
+    "children":[
+      "product-images",
+      "product-brand"
+    ]
     "props": {
       "displayThumbnailsArrows":true
     }
@@ -71,7 +75,7 @@
   },
   "sku-selector": {
     "props": {
-      "thumbnailImage": "/3-colors-retro-stand-mixer/"
+      "hideImpossibleCombinations": false
     }
   }
 }
