@@ -68,7 +68,7 @@
   },
   "sku-selector": {
     "props": {
-      "displayMode": "logo",
+      "thumbnailImage": "imageLabel",
       "height":30
     }
   }
