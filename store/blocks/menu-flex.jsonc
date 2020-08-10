@@ -24,5 +24,15 @@
             "paddingRight": 4,
             "horizontalAlign": "right"
         }
+    },
+    "image#menu": {
+        "props": {
+            "src": "https://appliancetheme.vteximg.com.br/arquivos/menu-washer.jpg",
+            "link": {
+                "url": "/small-appliances/coffee-makers"
+            },
+            "alt": "Coffee Makers Collection",
+            "maxWidth": "200px"
+        }
     }
 }
